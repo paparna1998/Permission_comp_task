@@ -119,9 +119,7 @@ const Index = () => {
                     <div className="col-sm text-white">
                         <div className="hero-image">
                             <div className="hero-text">
-                                <h1 style={
-                                    {fontSize: 50}
-                                }>I am John Doe</h1>
+                                <img src={pic} alt="Something Wrong" width={100} height={100}/>
                                 <p>And I'm a Photographer</p>
                                 <button>Hire me</button>
                             </div>
